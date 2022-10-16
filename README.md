@@ -1,25 +1,40 @@
-# Gatsby Lander
+# Anne Homepage
+## General info
+This project is for Anne to feature their services.
+They wanted the ability to edit the website on their own. I choose Sanity for the visual editing and ease of use.
+	
+## Technologies
+Project is created with: <br/>
+Gatsby </br>
+Sanity </br>
+TailwindCSS </br>
+Netlify
 
-This is an experimental starter built using [gatsby-theme-codebushi](https://github.com/codebushi/gatsby-theme-codebushi), a theme which uses [Tailwind CSS](https://tailwindcss.com/).
+	
+## 🚀 Quick start
+1. **Clone project**
 
-Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
+2.  **Start developing.**
 
-## Preview
+   
 
-https://gatsby-lander.surge.sh/
+    ```shell
+    
+    npm run develop
+    ```
 
-## Installation
+### To-do
 
-Install this starter (assuming Gatsby is installed) by running from your CLI:
-<br/>
-`gatsby new gatsby-starter-lander https://github.com/codebushi/gatsby-starter-lander`
+- [ ] Add Sanity
+- [ ] Add Testimonials
+- [ ] Done!
 
-Run `gatsby develop` in the terminal to start the dev site.
+### License
 
-## Notes
+This project is licensed under the [MIT License](LICENSE.md).
 
-These libraries do not yet fully support the upgrade to Gatsby 3.x:
-* gatsby-plugin-react-helmet
-* gatsby-plugin-emotion
-* gatsby-plugin-postcss
-* gatsby-theme-codebushi
+## 🚀 About Roni
+
+Checkout my [Roni's Portfolio](https://www.roni.rocks):
+
+
